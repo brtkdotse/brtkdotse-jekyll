@@ -4,6 +4,9 @@ title:  "Reflections on 3 years of 30 hour work weeks"
 date:   2021-09-27 09:29:20 +0700
 categories: work-life
 ---
+
+**TLDR; This is a summary of the article**
+
 Being a contractor is probably the most lucrative career path in the Nordics. When I jumped ship from my last salaried job in early 2018, I instantly bumped my per-hour compensation by over 100%. Having this much of a buffer, I threw in a final request while negotiating my first solo contract:
 
 ”Oh, by the way, due to family obligations I’ll be available between 9-15:30, give or take 30 minutes. Is that ok?”
